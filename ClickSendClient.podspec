@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors = 'ClickSend Codegen'
   s.license = 'Proprietary'
   s.source_files = 'ClickSendClient/Classes/**/*.swift'
-  s.summary = ''
-  s.homepage = ''
+  s.summary = 'Test'
+  s.homepage = 'Test'
   s.dependency 'Alamofire', '~> 4.9.1'
 end
