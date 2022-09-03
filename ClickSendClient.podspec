@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.source_files = 'ClickSendClient/Classes/**/*.swift'
   s.summary = 'Test'
   s.homepage = 'Test'
-  s.dependency 'Alamofire', '~> 4.9.1'
+  #s.dependency 'Alamofire', '~> 4.9.1'
 end
